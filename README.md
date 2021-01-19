@@ -99,3 +99,4 @@ This repo contains 100 commits, each of them adds one bullet point to this list:
 * Commit 95
 * Commit 96
 * Commit 97
+* Commit 98
