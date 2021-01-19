@@ -17,3 +17,4 @@ This repo contains 100 commits, each of them adds one bullet point to this list:
 * Commit 13
 * Commit 14
 * Commit 15
+* Commit 16
